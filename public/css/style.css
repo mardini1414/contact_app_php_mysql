@@ -1,0 +1,11 @@
+.container {
+    height: 512px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+aside {
+    height: 510px;
+}

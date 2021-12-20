@@ -1,0 +1,17 @@
+{
+    "name": "mardini/contact-app",
+    "description": "belajar membuat contact app dengan php mysql",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mardini\\ContactApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mardini",
+            "email": "mardini1414@gmail.com"
+        }
+    ],
+    "require": {}
+}
